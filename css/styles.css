@@ -10,3 +10,10 @@
 .main-ul li:hover {
   color: black;
 }
+.schedule-body > tr:hover {
+  background-color: tomato;
+  color: white;
+}
+.schedule {
+  border-collapse: collapse;
+}
