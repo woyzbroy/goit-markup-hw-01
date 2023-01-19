@@ -1,6 +1,10 @@
-.ul-header {
+.ul-mid-header {
   color: brown;
 }
-li {
-  text-decoration: none;
+.main-ul li {
+  text-decoration: underline;
+  color: blue;
+}
+.main-ul li:hover {
+  color: black;
 }
