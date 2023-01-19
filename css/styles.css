@@ -10,11 +10,3 @@
 .main-ul li:hover {
   color: black;
 }
-
-.main-ul li:active {
-  color: orange;
-}
-
-.main-ul li:visited {
-  color: orange;
-}
