@@ -1,10 +1,20 @@
 .ul-mid-header {
   color: brown;
 }
+
 .main-ul li {
   text-decoration: underline;
   color: blue;
 }
+
 .main-ul li:hover {
   color: black;
+}
+
+.main-ul li:active {
+  color: orange;
+}
+
+.main-ul li:visited {
+  color: orange;
 }
