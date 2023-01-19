@@ -1,3 +1,7 @@
+body {
+  background-color: antiquewhite;
+}
+
 .ul-mid-header {
   color: brown;
 }
@@ -5,6 +9,7 @@
 .main-ul li {
   text-decoration: underline;
   color: blue;
+  cursor: pointer;
 }
 
 .main-ul li:hover {
