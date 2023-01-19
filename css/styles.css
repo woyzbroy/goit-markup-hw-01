@@ -16,4 +16,10 @@
 }
 .schedule {
   border-collapse: collapse;
+  border: 1px solid #212121;
+}
+.schedule th,
+.schedule td {
+  padding: 10px;
+  border: 1px solid #212121;
 }
